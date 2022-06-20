@@ -1,3 +1,3 @@
 # git_test
-MY first GitHun repo!
+My first GitHub repo!
 Hello Odin!
